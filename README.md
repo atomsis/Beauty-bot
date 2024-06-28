@@ -25,7 +25,6 @@ git clone https://github.com/yourusername/beauty-bot.git
 cd beauty-bot
 ```
 ## Установите зависимости, указанные в файле requirements.txt:
-sh
 ```
 pip install -r requirements.txt
 ```
